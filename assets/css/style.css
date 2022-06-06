@@ -234,29 +234,30 @@ ul {
     margin-right: 20px;
     background-color: #1a2435;
     border-radius: 10px;
-   
-   text-align: center;
+
+    text-align: center;
 }
 
-.gallery-cell img{
+.gallery-cell img {
     display: flex;
     margin: 0 auto;
     padding-top: 10px;
-    
+
 }
-.gallery-cell p{
-    padding-top:30px;
+
+.gallery-cell p {
+    padding-top: 30px;
     font-size: 16px;
     color: #FFFFFF;
     opacity: 0.7;
 }
 
-.pt img{
-    padding-top:45px;
+.pt img {
+    padding-top: 45px;
 
 }
 
-.gallery-cell h2{
+.gallery-cell h2 {
     padding-top: 20px;
     font-size: 25px;
     color: #FFFFFF;
@@ -272,17 +273,19 @@ ul {
     color: white;
 }
 
-.flickity-prev-next-button{
-display: none;
+.flickity-prev-next-button {
+    display: none;
 }
-.flickity-page-dots .dot{
+
+.flickity-page-dots .dot {
     width: 15px !important;
     height: 15px !important;
     background: #2C3647 !important;
 }
-.flickity-page-dots{
+
+.flickity-page-dots {
     bottom: -80px !important;
-    
+
 }
 
 /* end feature */
